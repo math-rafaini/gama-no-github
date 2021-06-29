@@ -1,0 +1,1 @@
+O curso abrange diversos conteúdos sobre Git em muito pouco tempo, demonstrando que a responsabilidade de ir mais a fundo é propriedade do próprio bolsista, o que,por si só, é um ótimo treino relacionado às SoftSkills de ser pró-ativo e se dedicar.
